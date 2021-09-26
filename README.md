@@ -23,7 +23,7 @@ My current research focus is **OCR**, including **Scene Text Dectetction**, **Re
 - *ICDAR 2021 Oral*
    - [Paper](https://arxiv.org/pdf/2105.06229v1.pdf) | [Code](https://github.com/hikopensource/DAVAR-Lab-OCR)
 
-![architecture](https://github.com/Trami1995/Trami1995.github.io/framework.png)
+![architecture](https://github.com/Trami1995/Trami1995.github.io/blob/main/framework.png)
 
 We excavate the implicit task, character counting within the traditional text recognition, without additional labor annotation cost. The implicit task plays as an auxiliary branch for complementing the sequential recognition. We design a two-branch reciprocal feature learning framework in order to adequately utilize the features from both the tasks.
 
@@ -31,7 +31,7 @@ We excavate the implicit task, character counting within the traditional text re
    - *ICDAR 2019 Competition Task 2: Text Line Recognition*
    - [Competition](https://rrc.cvc.uab.es/?ch=12&com=evaluation&task=2)
 
-![ReCTS](https://github.com/Trami1995/Trami1995.github.io/icdar2019RECTS.png)
+![ReCTS](https://github.com/Trami1995/Trami1995.github.io/blob/main/icdar2019RECTS.png)
 
 We choose attention-based and CTC-based recognizer with data augmentation, and used multi-model fusion to predict the final result.
 
