@@ -20,7 +20,7 @@ My current research focus is **OCR**, including **Scene Text Dectetction**, **Re
 ## Publications and Competitions
 
 1. **RF-Learning:  Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition**
-- *ICDAR 2021 Oral*
+   - *ICDAR 2021 Oral*
    - [Paper](https://arxiv.org/pdf/2105.06229v1.pdf) 
    - [Code](https://github.com/hikopensource/DAVAR-Lab-OCR)
 
