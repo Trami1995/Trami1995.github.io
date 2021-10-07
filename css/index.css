@@ -201,6 +201,7 @@ body section .my_drame .my_drame_bot>div .my_drame_left {
 	display: -webkit-flex;
 	justify-content: center;
 	align-items: center;
+	text-align: justify;
 }
 
 body section .my_drame .my_drame_bot>div .my_drame_left a {
